@@ -1,5 +1,7 @@
-This is a repository where we can colaborate and help each other on different projects in different coding languages
+This repository allows us to collaborate and help each other on different projects in different coding languages.
 
-make a codespace
+Make a codespace
 
 How?
+
+la code, plus codespace
